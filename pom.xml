@@ -19,6 +19,7 @@
 		<spring-cloud.version>Greenwich.RC2</spring-cloud.version>
 		<dockerfile.version>1.4.1</dockerfile.version>
 		<docker.image.prefix>surevine</docker.image.prefix>
+		<maven.test.skip>true</maven.test.skip>
 	</properties>
 
 	<dependencies>
